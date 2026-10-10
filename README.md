@@ -22,5 +22,5 @@ To become an AI Engineer by strengthening my programming skills and building pra
 
 ### 🌱 My Learning Journey
 
-Learning step by step, writing code, solving problems, and improving every day.
+Learning step by step, writing code, solving problems, and improving every day..
 
